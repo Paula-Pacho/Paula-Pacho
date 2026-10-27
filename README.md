@@ -87,6 +87,7 @@ Plataforma web oberta on centres educatius de Catalunya publiquen en temps real 
 - Publicació amb domini propi, llicència CC BY-NC-SA 4.0 i creació de la guia didàctica per a docents.
 
 **Tecnologies:** HTML/CSS/JS, Google Apps Script, Google Sheets, GitHub Pages.
+
 **Enllaç al projecte micro:bitada:** [microbitada.cat](https://microbitada.cat)
 
 ---
