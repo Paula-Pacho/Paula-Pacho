@@ -71,7 +71,8 @@ Plataforma web oberta on centres educatius de Catalunya publiquen en temps real 
 
 **Tecnologies:** JavaScript, HTML/CSS, Chart.js, ThingSpeak, Google Apps Script, Google Forms/Sheets, ESP32 (Arduino), micro:bit, GitHub Pages.
 
-[Enllaç al repositori Estacions Meteorològiques en Xarxa](https://github.com/Paula-Pacho/EstacioMeteoDiversesPlaques)
+**Enllaç al projecte meteoescoles:** [meteoescoles.cat](https://meteoescoles.cat)
+
 
 ---
 
