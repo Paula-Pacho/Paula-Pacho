@@ -2,23 +2,24 @@
 
 ## Sobre mi
 
-Soc enginyera aeronàutica formada a la Universitat Politècnica de Catalunya juntament amb la Technishe Universität de Braunschweig on vaig fer el màster d'enginyeria superior. 
+Soc enginyera aeronàutica formada a la Universitat Politècnica de Catalunya juntament amb la Technishe Universität de Braunschweig on vaig fer el màster d'enginyeria superior.
 
-Després de viure cinc anys a Alemanya vaig treballar com a coordinadora de projectes en la secció d'aeronàutica a l'empresa Aritex a Barcelona, on vaig participar de tres projectes de construcció de les línies de fabricació de les ales de l'Airbus A350. 
+Després de viure cinc anys a Alemanya vaig treballar com a coordinadora de projectes en la secció d'aeronàutica a l'empresa Aritex a Barcelona, on vaig participar de tres projectes de construcció de les línies de fabricació de les ales de l'Airbus A350.
 
-Vaig fer una parada tècnica a Natal (Brasil) de tres anys on vaig establir una acadèmia d'idiomes de castellà i català, amb acreditació per el Instituto Cervantes. 
+Vaig fer una parada tècnica a Natal (Brasil) de tres anys on vaig establir una acadèmia d'idiomes de castellà i català, amb acreditació per el Instituto Cervantes.
 
-Arran del COVID vaig tornar a Catalunya i vaig cursar el Màster per al professorat de secundària amb especialitat amb Tecnologia i el curs següent vaig començar a treballar a l'Institut Joaquim Mir com a tutora i docent dels mòduls professionals del PFI d'Auxiliar i manteniment d'equips informàtics durant quatre cursos lectius. 
+Arran del COVID vaig tornar a Catalunya i vaig cursar el Màster per al professorat de secundària amb especialitat amb Tecnologia i el curs següent vaig començar a treballar a l'Institut Joaquim Mir com a tutora i docent dels mòduls professionals del PFI d'Auxiliar i manteniment d'equips informàtics durant quatre cursos lectius.
 
-El juny de 2025 va sortir l'oportunitat de participar en el programa Mentories 4.0 com a assessora tècnica docent de l'Alt Penedès, ajudant a impulsar la robòtica, el pensament computacional, la programació i la fabricació digital als centres educatius de primària i secundària. 
+El juny de 2025 va sortir l'oportunitat de participar en el programa Mentories 4.0 com a assessora tècnica docent de l'Alt Penedès, ajudant a impulsar la robòtica, el pensament computacional, la programació i la fabricació digital als centres educatius de primària i secundària.
 
-Aquest és el segon curs com a Mentora i l'últim. 
+Aquest és el segon curs com a Mentora i l'últim.
 
-A les tardes estudio a l'Institut Joaquim Mir segon del CFGS Desenvolupament d'Aplicacions Web. 
+A les tardes estudio a l'Institut Joaquim Mir segon del CFGS Desenvolupament d'Aplicacions Web.
 
 ## Tecnologies i eines
 
 ### Les domino
+
 ![Badge de HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Badge de CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Badge de JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,10 +35,11 @@ A les tardes estudio a l'Institut Joaquim Mir segon del CFGS Desenvolupament d'A
 ![Badge d'Arduino, programació de l'ESP32](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Badge de micro:bit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logoColor=black)
 ![Badge de ThingSpeak, plataforma IoT](https://img.shields.io/badge/ThingSpeak-FF6600?style=for-the-badge)
-![Badge de metodologia àgil amb sprints](https://img.shields.io/badge/Metodologia-Àgil_(Sprints)-5C2D91?style=for-the-badge)
+![Badge de metodologia àgil amb sprints](<https://img.shields.io/badge/Metodologia-Àgil_(Sprints)-5C2D91?style=for-the-badge>)
 ![Badge d'intel·ligència artificial](https://img.shields.io/badge/Intel·ligència-Artificial-412991?style=for-the-badge)
 
 ### Estic aprenent
+
 ![Badge de Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
 ![Badge de Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Badge de Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -49,14 +51,15 @@ A les tardes estudio a l'Institut Joaquim Mir segon del CFGS Desenvolupament d'A
 
 ## Estadístiques de GitHub
 
-![Targeta amb les estadístiques del perfil de GitHub: estrelles, commits, pull requests i incidències](https://github-readme-stats.vercel.app/api?username=Paula-Pacho&show_icons=true&hide_border=true)
+![Targeta amb les estadístiques del perfil de GitHub: estrelles, commits, pull requests i incidències](https://raw.githubusercontent.com/Paula-Pacho/Paula-Pacho/main/profile-summary-card-output/midnight_purple/3-stats.svg)
 
-![Targeta amb els llenguatges de programació més utilitzats als repositoris de GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Paula-Pacho&layout=compact&hide_border=true)
+![Targeta amb els llenguatges de programació més utilitzats als repositoris de GitHub](https://raw.githubusercontent.com/Paula-Pacho/Paula-Pacho/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
 
 ## Projectes destacats
 
 ### Estacions Meteorològiques en Xarxa · Mentories 4.0
-*Departament d'Educació de Catalunya · 2026*
+
+_Departament d'Educació de Catalunya · 2026_
 
 Plataforma web oberta on centres educatius de Catalunya publiquen en temps real les dades de les seves estacions meteorològiques construïdes amb micro:bit, ESP32 i altres plaques.
 
@@ -73,11 +76,11 @@ Plataforma web oberta on centres educatius de Catalunya publiquen en temps real 
 
 **Enllaç al projecte meteoescoles:** [meteoescoles.cat](https://meteoescoles.cat)
 
-
 ---
 
 ### Micro:bitada Penedès 2026 · Gimcana digital educativa (Mentories 4.0)
-*Disseny, desenvolupament i manteniment*
+
+_Disseny, desenvolupament i manteniment_
 
 - Aplicació web per a una gimcana de programació amb micro:bit: grups d'alumnes que resolen 5 reptes amb pistes, nivells de dificultat i cronòmetre, jugant des de Chromebook.
 
@@ -94,7 +97,8 @@ Plataforma web oberta on centres educatius de Catalunya publiquen en temps real 
 ---
 
 ### Wannapop · Aplicació web de segona mà
-*Projecte 1, CFGS Desenvolupament d'Aplicacions Web (DAW)*
+
+_Projecte 1, CFGS Desenvolupament d'Aplicacions Web (DAW)_
 
 - Disseny i implementació de consultes a la base de dades amb Flask i SQLAlchemy: llistat, cerca i filtratge de productes.
 
@@ -105,7 +109,6 @@ Plataforma web oberta on centres educatius de Catalunya publiquen en temps real 
 **Tecnologies:** Python, Flask, SQLAlchemy, SQL, Git.
 
 [Enllaç al repositori Wannapop](https://github.com/jmirinformatica-classroom50/daw-1c-projecte-1-group-11)
-
 
 ## Contacte
 
